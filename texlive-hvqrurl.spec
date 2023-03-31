@@ -1,6 +1,6 @@
 Name:		texlive-hvqrurl
 Version:	59256
-Release:	1
+Release:	2
 Summary:	Insert a QR code in the margin
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hvqrurl
