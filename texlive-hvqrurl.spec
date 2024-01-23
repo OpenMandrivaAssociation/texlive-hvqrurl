@@ -1,5 +1,5 @@
 Name:		texlive-hvqrurl
-Version:	68693
+Version:	69484
 Release:	1
 Summary:	Insert a QR code in the margin
 Group:		Publishing
