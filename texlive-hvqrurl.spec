@@ -3,7 +3,7 @@ Version:	71361
 Release:	1
 Summary:	Insert a QR code in the margin
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hvqrurl
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hvqrurl
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hvqrurl.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hvqrurl.doc.r%{version}.tar.xz
